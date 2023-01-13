@@ -20,7 +20,7 @@ body{
 #sec-1{
     background-color: rgb(228, 228, 228);
     padding-bottom:23.2%; 
-    background-image: url("/images/background2.jpg");
+    background-image: url("images/background2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
